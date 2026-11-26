@@ -10,7 +10,7 @@ O **Vai De Zap** é uma solução voltada a motoristas particulares. A proposta 
 
 ## ✨ Sobre o projeto
 
-Esta repository contém o código-fonte da landing page do Vai De Zap. A página apresenta a proposta do sistema, explica seu funcionamento e destaca os principais recursos e benefícios para motoristas particulares.
+Este repositório contém o código-fonte da landing page do Vai De Zap. A página apresenta a proposta do sistema, explica seu funcionamento e destaca os principais recursos e benefícios para motoristas particulares.
 
 ## 🚘 O que o Vai De Zap apresenta
 
