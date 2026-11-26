@@ -19,7 +19,9 @@ export default function CallToAction() {
         </p>
 
         <a
-          href="mailto:contato@vaidezap.com"
+          href="https://vaidezap.digimais.tech/login"
+          target="_blank"
+          rel="noopener noreferrer"
           className="mt-9 inline-flex items-center justify-center gap-3 rounded-xl border-2 border-brand-700 bg-brand-600 px-8 py-4 text-base font-bold text-white shadow-lg shadow-brand-600/20 transition duration-300 hover:-translate-y-1 hover:bg-brand-700 hover:shadow-xl"
         >
           Entre em contato
